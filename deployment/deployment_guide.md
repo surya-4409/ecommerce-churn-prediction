@@ -96,7 +96,7 @@ After deployment, validate the following:
 ## 🌐 Live Application URL
 
 **Deployed Streamlit App:**
-👉 [https://ecommerce-churn-prediction-vinay.streamlit.app/](https://ecommerce-churn-prediction-vinay.streamlit.app/)
+👉 [https://ecommerce-churn-prediction-hpskyrzuyyc2v8lbftbpq6.streamlit.app/](https://ecommerce-churn-prediction-hpskyrzuyyc2v8lbftbpq6.streamlit.app/)
 
 ---
 

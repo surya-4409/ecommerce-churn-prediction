@@ -153,7 +153,7 @@ streamlit run app/streamlit_app.py
 
 ## Live Application
 
-🌐 **Streamlit App URL:** [https://ecommerce-churn-prediction-vinay.streamlit.app/](https://ecommerce-churn-prediction-vinay.streamlit.app/)
+🌐 **Streamlit App URL:** [https://ecommerce-churn-prediction-hpskyrzuyyc2v8lbftbpq6.streamlit.app/](https://ecommerce-churn-prediction-hpskyrzuyyc2v8lbftbpq6.streamlit.app/)
 
 ---
 
@@ -229,7 +229,7 @@ ecommerce-churn-prediction/
 
 * **Platform:** Streamlit Community Cloud
 * **Deployment Guide:** `deployment/deployment_guide.md`
-* **Live URL:** [https://ecommerce-churn-prediction-vinay.streamlit.app/](https://ecommerce-churn-prediction-vinay.streamlit.app/)
+* **Live URL:** [https://ecommerce-churn-prediction-hpskyrzuyyc2v8lbftbpq6.streamlit.app/](https://ecommerce-churn-prediction-hpskyrzuyyc2v8lbftbpq6.streamlit.app/)
 
 ---
 
