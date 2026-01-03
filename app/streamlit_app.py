@@ -175,9 +175,9 @@ else:
 
     st.subheader("👤 Author")
     st.markdown("""
-    **Name:** Vinay Gupta Kandula  
+    **Name:** Billakurti Venkata Suryanarayana  
     **Role:** Data Scientist / Machine Learning Engineer  
     **Project Type:** End-to-End ML System (Training → Evaluation → Deployment)
     """)
 
-    st.caption("© 2026 Vinay Gupta Kandula | Churn Prediction System")
+    st.caption("© 2026 Billakurti Venkata Suryanarayana | Churn Prediction System")

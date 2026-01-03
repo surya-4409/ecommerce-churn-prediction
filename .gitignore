@@ -59,6 +59,10 @@ data/processed/*.parquet
 ####################################
 models/*.pkl
 models/*.joblib
+
+# ALLOW these specific files to be uploaded
+!models/best_model.pkl
+!models/imputer.pkl
 !models/feature_columns.pkl
 
 
