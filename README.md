@@ -1,5 +1,5 @@
 # 📊 E-Commerce Customer Churn Prediction
-
+ 
 ## Project Overview
 
 Customer churn is a major challenge for e-commerce businesses, as retaining existing customers is significantly more cost-effective than acquiring new ones. This project delivers an end-to-end machine learning solution to predict customer churn using historical transactional data.
